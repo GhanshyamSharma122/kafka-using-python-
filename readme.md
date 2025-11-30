@@ -31,8 +31,8 @@ It’s also reusable as a plug-in message queue for custom apps or prototypes.
 .
 ├── broker.py        # Flask server acting as the Kafka broker
 ├── partition_log.py # Log segment & storage mechanics
-├── producer.js      # Node client: sends messages
-├── consumer.js      # Node client: fetches messages
+├── my_kafka_app/producer.js      # Node client: sends messages
+├── my_kafka_app/consumer.js      # Node client: fetches messages
 └── broker_data/     # Auto-generated topic log directories
 ```
 
