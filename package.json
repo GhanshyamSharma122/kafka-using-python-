@@ -1,0 +1,15 @@
+{
+  "name": "kafka_using_python",
+  "version": "1.0.0",
+  "description": "u;sing python \r this project explores the internal working of kafka and it is made using python for simplicity.\r do follow me to get cool projects exploration like this \r wanna know how i made the project check it out in my medium profile:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.13.2"
+  }
+}
